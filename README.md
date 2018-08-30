@@ -1,6 +1,6 @@
 # smoking-cessation-app
 
-Unfinished application that was created during the final months of university. Still many features to be added.
+Unfinished application that was initially created during the final months of university and has been modified since.
 
 
 Built with:
